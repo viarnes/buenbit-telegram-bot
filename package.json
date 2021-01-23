@@ -1,0 +1,16 @@
+{
+  "name": "buenbot",
+  "version": "1.0.0",
+  "description": "This is a proof of concept for Buenbit's Telegram Bot (Buenbot)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "viarnes",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "node-telegram-bot-api": "^0.51.0",
+    "rss-parser": "^3.10.0"
+  }
+}
